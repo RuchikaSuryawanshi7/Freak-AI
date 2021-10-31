@@ -4,13 +4,6 @@
   <a href="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Gradient%20Border%20Meditation%20Mental%20Health%20169%20Video.png"><img width="420" align='right' src="https://github.com/RuchikaSuryawanshi7/Webgenix/blob/main/images/Image/Gradient%20Border%20Meditation%20Mental%20Health%20169%20Video.png"></a>
 </p>
 
-<p align='center'>
-<a href="https://devpost.com/RuchikaSuryawanshi7"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/RuchikaSuryawa4"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/danzatrice7/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ruchika-suryawanshi/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
-
 **INTRODUCTION : FREAK-Your AI Fitness Coach👋**
 
 ***Demo:*** [Demo](https://drive.google.com/file/d/1pM3bvB6n7IsfTI9-Do6NphH_masCF7Jb/view?usp=sharing)
